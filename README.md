@@ -2,10 +2,12 @@
 `
  依赖程序库有 bash  curl ps bc ... 等等系统工具
 `
-### 使用方法
+## 使用方法
+#### 添加执行权限
 `
  chmod u+x d.sh dworker.sh
 `
+#### 执行 d.sh
 `
  ./d.sh <file name> <download url> [max thread]
 `
